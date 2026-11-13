@@ -1,0 +1,1 @@
+[{"expected":120,"fn":"factorial","input":[5]},{"expected":5,"fn":"countVowels","input":"AEIOU"},{"expected":"Hello World","fn":"titleCase","input":"hELLO WORLD"},{"expected":"a😀","fn":"reverse","input":"😀a"}]
